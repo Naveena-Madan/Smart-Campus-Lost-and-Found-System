@@ -54,7 +54,17 @@ The system provides a centralized platform for reporting lost and found belongin
 8. Run the main application class to launch the system.
 
 ## Screenshots
-The `screenshots` folder contains selected screenshots of the application's working modules and user interfaces.
+Application output screenshots are provided in
+Application ScreenShots.pdf.
+
+## Dependencies
+- JDK (Java Development Kit)
+- MySQL Server
+- MySQL Connector/J (JDBC driver)
+- Java Swing (included with the JDK)
+
+MySQL Connector/J must be added to the project's classpath
+before execution.
 
 ## Source Code
 The complete project source is provided in this repository, including the uploaded project ZIP archive.
